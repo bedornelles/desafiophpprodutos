@@ -27,4 +27,4 @@ Desafio feito em php sem utilizar WordPress.
 
 2 - Acesse a pasta desafio
 
-3 - projeto foi feito usando docker, para rodar é necessário dar compose up.
+3 - O projeto foi feito usando docker, para rodar é necessário dar compose up.
