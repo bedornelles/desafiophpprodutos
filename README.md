@@ -24,5 +24,7 @@ O exercício consiste em
 Desafio feito em php sem utilizar WordPress.
 
 1 - Baixe o projeto
+
 2 - Acesse a pasta desafio
+
 3 - projeto foi feito usando docker, para rodar é necessário dar compose up.
